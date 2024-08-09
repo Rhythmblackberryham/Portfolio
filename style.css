@@ -30,7 +30,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between; /* Aligns header and profile on opposite sides */
-    align-items: center; /* Aligns items vertically center */
+    align-items: left; /* Aligns items vertically center */
     margin-bottom: 20px;
 }
 }
