@@ -33,6 +33,7 @@ body {
     font-size: 36px;
     font-weight: bold;
     font-color: #900C3F;
+    text-align:left;
 }
 
 .subtitle {
@@ -42,10 +43,11 @@ body {
     padding: 5px 10px;
     border-radius: 20px;
     margin-top: 10px;
+    text-align:left;
 }
 
 .profile {
-    text-align: center;
+    text-align: right;
     margin-bottom: 20px;
 }
 
