@@ -24,9 +24,15 @@ body {
     box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.5);
 }
 
-.header {
+/*.header {
     text-align: left;
-    /*margin-bottom: 20px;*/
+    margin-bottom: 20px;*/
+.header {
+    display: flex;
+    justify-content: space-between; /* Aligns header and profile on opposite sides */
+    align-items: center; /* Aligns items vertically center */
+    margin-bottom: 20px;
+}
 }
 
 .header h1 {
